@@ -2,7 +2,7 @@
 The School Management System application will help students, their parents and teachers in managing the student’s reports, results and exams will become easier with one such system.
 
 ## Steps to install and run the project
-After clonning the SMS(https://github.com/school-zone/School-Management-System-SMS-.git) repository,
+After clonning the [SMS](https://github.com/school-zone/School-Management-System-SMS-.git) repository,
  * open terminal and type `cd School-Management-System-SMS-/sms-app`
  * After that, type `npm install`
 
